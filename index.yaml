@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  eventapp-lab16:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-17T17:23:11.6364185+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 367c8e9bf2d9f122005a873554015d931a40389e0d52ce31a6a0846b1a8a2d2e
+    name: eventapp-lab16
+    urls:
+    - https://ravine-aldo.github.io/mycharts/eventapp-lab16-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-10-17T17:23:11.6354168+09:00"
